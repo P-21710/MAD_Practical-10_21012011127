@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.prasadrajyaguru.mad_practical_10_21012011127"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.prasadrajyaguru.mad_practical_10_21012011127"
         minSdk = 21
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
